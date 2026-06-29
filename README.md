@@ -1,6 +1,10 @@
 # CURP
 CURD/CHAT USES REAL PC
 
+# READ BEFORE YOU USE
+To use this Credit me You must have it in the desc and on the screen for everybody to see.
+or me angry and me exposing you.
+
 # How It was made
 I dont want to learn how to code hid keyboards so i disided to use claude ai (pro)
 yes i did and if i didnt it well have taken me 1 year to learn hid keyboard stuff
